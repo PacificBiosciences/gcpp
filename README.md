@@ -18,7 +18,7 @@ Please refer to our [official pbbioconda page](https://github.com/PacificBioscie
 for information on Installation, Support, License, Copyright, and Disclaimer.
 
 ## Latest Version
-Version **1.0.0**: [Full changelog here](#changelog)
+Version **2.0.0**: [Full changelog here](#changelog)
 
 ## Execution
 **Input**: Aligned subreads in PacBio BAM format (`.bam`).
@@ -42,7 +42,9 @@ PacBio® tool _gcpp_, distributed via Bioconda, is licensed under
 
 ## Changelog
 
- * **1.0.0**:
+ * **2.0.0**:
+   * SMRT Link v10.0 release candidate
+ * 1.0.0:
    * SMRT Link v8.0 release candidate
    * Only perform QV computation when required (`.fasta`-only output will skip QV computation)
    * Allow 0-byte input references
