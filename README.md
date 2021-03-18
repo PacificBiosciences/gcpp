@@ -42,7 +42,9 @@ PacBio® tool _gcpp_, distributed via Bioconda, is licensed under
 
 ## Changelog
 
- * **2.0.0**:
+ * 2.0.1:
+   * Fixed a buffer overflow in Arrow that could lead to segfaults in rare cases.
+ * 2.0.0:
    * SMRT Link v10.0 release candidate
  * 1.0.0:
    * SMRT Link v8.0 release candidate
