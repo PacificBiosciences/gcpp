@@ -42,6 +42,8 @@ PacBio® tool _gcpp_, distributed via Bioconda, is licensed under
 
 ## Changelog
 
+ * 2.0.2:
+   * Require FAI index upfront when passing the `-w` argument. This would lead to rare crashes when users did not have FAI files present.
  * 2.0.1:
    * Fixed a buffer overflow in Arrow that could lead to segfaults in rare cases.
  * 2.0.0:
