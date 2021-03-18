@@ -18,7 +18,7 @@ Please refer to our [official pbbioconda page](https://github.com/PacificBioscie
 for information on Installation, Support, License, Copyright, and Disclaimer.
 
 ## Latest Version
-Version **2.0.0**: [Full changelog here](#changelog)
+Version **2.0.2**: [Full changelog here](#changelog)
 
 ## Execution
 **Input**: Aligned subreads in PacBio BAM format (`.bam`).
